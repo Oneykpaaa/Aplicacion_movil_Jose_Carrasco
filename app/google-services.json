@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159483569640",
+    "project_id": "iott-93598",
+    "storage_bucket": "iott-93598.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159483569640:android:17e85303d424241933b05d",
+        "android_client_info": {
+          "package_name": "com.example.a113_4b_25092025"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159483569640-0mk879jet78psug0furrq3b51qmue0d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDS9Qf3paU80GH57Pdg8jVYJZ1Pr7IBxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159483569640-0mk879jet78psug0furrq3b51qmue0d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
